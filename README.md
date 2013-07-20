@@ -1,2 +1,0 @@
-# ilcwd's blog
-
