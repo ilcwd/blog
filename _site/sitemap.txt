@@ -1,11 +1,11 @@
 
-http://username.github.io/categories.html
-http://username.github.io/tags.html
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/archive.html
-http://username.github.io/sitemap.txt
-http://username.github.io/atom.xml
-http://username.github.io/rss.xml
+http://ilcwd.github.io/categories.html
+http://ilcwd.github.io/tags.html
+http://ilcwd.github.io/index.html
+http://ilcwd.github.io/pages.html
+http://ilcwd.github.io/archive.html
+http://ilcwd.github.io/sitemap.txt
+http://ilcwd.github.io/atom.xml
+http://ilcwd.github.io/rss.xml
 
-http://username.github.io/lessons/2011/12/29/jekyll-introduction
+http://ilcwd.github.io/2013/07/20/hello
