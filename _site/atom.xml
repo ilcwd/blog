@@ -4,7 +4,7 @@
  <title>Ilcwd's Blog</title>
  <link href="http://ilcwd.github.io/" rel="self"/>
  <link href="http://ilcwd.github.io"/>
- <updated>2013-07-21T17:08:40+08:00</updated>
+ <updated>2013-07-21T17:16:41+08:00</updated>
  <id>http://ilcwd.github.io</id>
  <author>
    <name>ilcwd</name>
@@ -17,9 +17,10 @@
    <link href="http://ilcwd.github.io/2013/07/20/hello"/>
    <updated>2013-07-20T00:00:00+08:00</updated>
    <id>http://ilcwd.github.io/2013/07/20/hello</id>
-   <content type="html">&lt;h2&gt;你好，世界&lt;/h2&gt;
-&lt;p&gt;我的第一篇文章&lt;/p&gt;
-&lt;p&gt;20 Jul 2013&lt;/p&gt;</content>
+   <content type="html">&lt;p&gt;我的第一篇文章&lt;/p&gt;
+&lt;p&gt;20 Jul 2013&lt;/p&gt;
+
+</content>
  </entry>
  
  

@@ -5,16 +5,17 @@
         <description>Ilcwd's Blog - ilcwd</description>
         <link>http://ilcwd.github.io</link>
         <link>http://ilcwd.github.io</link>
-        <lastBuildDate>2013-07-21T17:08:40+08:00</lastBuildDate>
-        <pubDate>2013-07-21T17:08:40+08:00</pubDate>
+        <lastBuildDate>2013-07-21T17:16:41+08:00</lastBuildDate>
+        <pubDate>2013-07-21T17:16:41+08:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
                 <title>你好，世界</title>
-                <description>&lt;h2&gt;你好，世界&lt;/h2&gt;
-&lt;p&gt;我的第一篇文章&lt;/p&gt;
-&lt;p&gt;20 Jul 2013&lt;/p&gt;</description>
+                <description>&lt;p&gt;我的第一篇文章&lt;/p&gt;
+&lt;p&gt;20 Jul 2013&lt;/p&gt;
+
+</description>
                 <link>http://ilcwd.github.io/2013/07/20/hello</link>
                 <guid>http://ilcwd.github.io/2013/07/20/hello</guid>
                 <pubDate>2013-07-20T00:00:00+08:00</pubDate>
