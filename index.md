@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome to Ilcwd's blog
-tagline: index
+title: 欢迎来到Ilcwd的博客
+tagline: 
 ---
 
 {% include JB/setup %}
