@@ -6,26 +6,14 @@ tagline:
 
 {% include JB/setup %}
 
+###简介
+- - -
+
+<p>Ilcwd工作生活中遇到的各种后端技术和心路历程。</p>
 
 
-##关于我
----
 
-SYSU 2011年出品，SS小本。
-
-目前主要负责服务端后台开发。
-
-常用Python，最近比较有兴趣的东西：git，golang，HTML5。
-
-比较熟悉的东西：
-
->Python2，MySQL，Redis，Memcache，Nginx，uWSGI，Linux，Java，C/CPP，分布式服务，高并发高访问的大型服务开发。
-
-
-有事联系: 
->ilcwd23 (#) gmail.com  
-
-##最近博客列表
+###最近博客列表
 - - -
 
 <ul class="posts">

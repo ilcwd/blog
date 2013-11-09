@@ -11,11 +11,11 @@ safe: true
 # so be sure to set them if your theme uses them.
 #
 title : 阿拉斯加长脚蟹
-tagline: Python, golang, HTML
+tagline: Python, Golang, Web
 author :
   name : ilcwd
-  email : ilcwd@qq.com
-  github : ilcwd
+  email : ilcwd23@gmail.com
+  github : http://github.com/ilcwd
   twitter : ilcwd
   feedburner : ilcwd
 
@@ -57,8 +57,8 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://ilcwd.github.io/blog
-  # BASE_PATH : /blog
+  # BASE_PATH : http://ilcwd.github.io/blog
+  BASE_PATH : ""
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
