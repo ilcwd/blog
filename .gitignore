@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 _site/*
 _theme_packages/*
 
@@ -9,8 +8,6 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
-=======
 _drafts/
 _site/
 
->>>>>>> gh-pages
